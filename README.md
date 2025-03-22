@@ -2,6 +2,18 @@
 
 Este é um aplicativo em Python que utiliza a biblioteca Tkinter para criar uma interface gráfica para gerenciar arquivos Excel. O programa permite criar, abrir e editar arquivos Excel de forma interativa.
 
+## Tela Inicial
+
+![Tela Inicial](https://github.com/giovanep4mg/Projeto_Caixa/blob/main/imagens/tela%20inicial-programa.PNG)
+
+## Tela Criando um arquivo excel vazio, porém com as colunas já pré-definidas
+
+![Tela Criando um arquivo excel vazio, porém com as colunas já pré-definidas](https://github.com/giovanep4mg/Projeto_Caixa/blob/main/imagens/print-planilha-criada.PNG)
+
+## Tela que abre para o usuário inserir os dados
+
+![Tela que abre para o usuário inserir os dados](https://github.com/giovanep4mg/Projeto_Caixa/blob/main/imagens/print-inserir-dia-na-planilha.PNG)
+
 ## Requisitos
 
 Antes de executar o programa, certifique-se de ter instalado os seguintes pacotes Python:
